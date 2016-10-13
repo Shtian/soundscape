@@ -1,0 +1,22 @@
+{
+  "name": "soundscape",
+  "version": "1.0.0",
+  "description": "Play with soundz!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtian/soundscape.git"
+  },
+  "keywords": [
+    "sound"
+  ],
+  "author": "Stian Haga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shtian/soundscape/issues"
+  },
+  "homepage": "https://github.com/shtian/soundscape#readme"
+}
